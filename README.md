@@ -1,0 +1,4 @@
+# SocialMedia
+#Gradle
+#Spring
+#PostgreSql
